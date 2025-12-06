@@ -2,7 +2,7 @@
 
 I originally designed it to be like a minimalistic lamp, but I just added random naruto symbols on it cause i thought it looked cool.
 
-# FEATURES
+## FEATURES
 
 - Has cool naruto symbols on it
 - Lights up like any lamp
@@ -11,21 +11,27 @@ I originally designed it to be like a minimalistic lamp, but I just added random
 
 ## [BOM](https://github.com/aidenjcheng/cool-lamp/blob/main/BOM.csv)
 
-| Name                                                                                                   | Quantity | Price   | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Notes                                                                           |
-| ------------------------------------------------------------------------------------------------------ | -------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Hexagon Nut JIS B 1181 - M5 - C Steel 6 Plain and Hex Head Bolt JIS B 1180 - M5x20 - C Steel 4.6 Plain | 1        | ~$2.00  | —                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | probably have some lying around somewhere/i'll just pick some up from the store |
-| Cable                                                                                                  | —        | $9.00   | https://www.amazon.com/Globe-Electric-Extension-Polarized-22816/dp/B075RH52LW/ref=sr_1_3?crid=2BZNO4GD7098R&dib=eyJ2IjoiMSJ9.ENkLZv9IsSD-Sb41hIgbozU1um9nYFfjJ_Ksvsd9_dcQRwe1EcmUqdj8t_g7fPDDCvyB-Ex836M-xajjUZ-VLsTQE4TME4Zw_jKVc6OmIhvxT_9JYvWhOVFHGR00vR3KC1C6BUSQCmtoqpbOQfrkBUvE5Py6Q-udR5WTQz4waBcV6NTyLBKZcircbhyZUj-x2NqrV983w5RvsP1ckTBNcXWmA_XblsTFwXSTk2ZJ4W-KIwYNR9n7v9PcQ4PAya-K7kVUCoDQm_Hqdo7ODR4vvPsWjJwcLOYKb1K__sZ779c.BNshDDbsBCOg01Pi_F0Ojynl4SbeNo8ECVLV4hbLHj0&dib_tag=se&keywords=fabric%2Bextension%2Bcord&qid=1764180148&sprefix=fabric%2Bext%2Caps%2C277&sr=8-3&th=1 | includes shipping                                                               |
-| Light socket                                                                                           | —        | $4.99   | https://www.amazon.com/Leviton-49875-B01-09875-000-Incandescent-Fluorescent/dp/B000HJBCGU                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | —                                                                               |
-| **Total**                                                                                              | —        | **$14** | —                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | —                                                                               |
+| Name                                                                                                    | Quantity | Price                       | Link                                                                                                       | Notes                                                            |
+| ------------------------------------------------------------------------------------------------------- | -------- | --------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Hexagon Nut JIS B 1181 - M10 - C Steel 6 Plain and Hex Head Bolt JIS B 1180 - M5x32 - C Steel 4.6 Plain | 1        | -                           | —                                                                                                          | I have some lying around somewhere, from previous furniture sets |
+| Cable                                                                                                   | 1        | $9.00                       | https://www.amazon.com/gp/product/B0CJ2PXRWL?smid=A7FCVZTAJCQ4N&psc=1                                      | I have prime so no shipping cost                                 |
+| Light socket                                                                                            | 1        | $3.28                       | https://www.homedepot.com/p/Leviton-Outlet-to-Socket-Light-Plug-White-61-W-R52-00061-00W/100170446#overlay | will pickup since delivery cost money                            |
+| **Total**                                                                                               | —        | **$13.02 (with sales tax)** | —                                                                                                          | —                                                                |
+
+## implementation
+
+![implementation-sketch](./IMGS/implementation.jpeg)
+
+I'm going to stick the cable up the lamp into the light socket.
 
 ## symbolism
 
-using surface level analysis of naruto series i metaphorically extruded the HLV symbol while dug the uchiha crest symbol into lamp (itachi worked in the shadows for the village-> indented vs extuded).
+using surface level analysis of naruto series i metaphorically extruded the HLV symbol while dug the uchiha crest symbol into lamp (itachi worked in the shadows for the village -> indented vs extuded).
 
 ## RENDERINGS!!!!
 
-![lamp](./IMGS/nice_rendering.png)
-![lamp](./IMGS/section_view_w_bulb.png)
+![lamp](./IMGS/new_rendering.png)
+![lamp](./IMGS/section_view_w_bul.png)
 ![lamp](./IMGS/HLV.png)
 ![lamp](./IMGS/uchiha.png)
 
