@@ -32,8 +32,8 @@ using surface level analysis of naruto series i metaphorically extruded the HLV 
 
 ![lamp](./IMGS/new_rendering.png)
 ![lamp](./IMGS/section_view_w_bul.png)
-![lamp](./IMGS/HLV.png)
-![lamp](./IMGS/uchiha.png)
+![lamp](./IMGS/updated_hlv.png)
+![lamp](./IMGS/updated_uchiha.png)
 
 ## INSPIRATION
 
